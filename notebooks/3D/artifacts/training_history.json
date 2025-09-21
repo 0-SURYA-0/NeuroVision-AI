@@ -1,0 +1,163 @@
+[
+  {
+    "epoch": 0,
+    "train_loss": 0.9400839782228657,
+    "train_dice": 0.06898979103197252,
+    "val_loss": 0.9119658561853262,
+    "val_dice": 0.09155173406291467,
+    "learning_rate": 4.9863047384206835e-05,
+    "training_time": 220.4793152809143,
+    "memory_usage": {
+      "cpu": {
+        "total": 16788975616,
+        "available": 3674267648,
+        "used": 13114707968,
+        "percent": 78.1
+      },
+      "gpu": {
+        "allocated": 734372864,
+        "cached": 7516192768,
+        "max_allocated": 6398444544,
+        "max_cached": 7516192768
+      }
+    }
+  },
+  {
+    "epoch": 1,
+    "train_loss": 0.913446282639223,
+    "train_dice": 0.09192879708922085,
+    "val_loss": 0.9002091517815223,
+    "val_dice": 0.1043654905918699,
+    "learning_rate": 4.9453690018345144e-05,
+    "training_time": 215.94201278686523,
+    "memory_usage": {
+      "cpu": {
+        "total": 16788975616,
+        "available": 3959050240,
+        "used": 12829925376,
+        "percent": 76.4
+      },
+      "gpu": {
+        "allocated": 734897152,
+        "cached": 7516192768,
+        "max_allocated": 6398444544,
+        "max_cached": 7516192768
+      }
+    }
+  },
+  {
+    "epoch": 2,
+    "train_loss": 0.9008322299695483,
+    "train_dice": 0.10828134498796334,
+    "val_loss": 0.8749682169694167,
+    "val_dice": 0.13706027214916852,
+    "learning_rate": 4.877641290737884e-05,
+    "training_time": 230.9088807106018,
+    "memory_usage": {
+      "cpu": {
+        "total": 16788975616,
+        "available": 4090839040,
+        "used": 12698136576,
+        "percent": 75.6
+      },
+      "gpu": {
+        "allocated": 734897152,
+        "cached": 7516192768,
+        "max_allocated": 6398444544,
+        "max_cached": 7516192768
+      }
+    }
+  },
+  {
+    "epoch": 3,
+    "train_loss": 0.869396007528492,
+    "train_dice": 0.16114092342078834,
+    "val_loss": 0.8406804341536301,
+    "val_dice": 0.17569886687068412,
+    "learning_rate": 4.7838636441065016e-05,
+    "training_time": 214.05243968963623,
+    "memory_usage": {
+      "cpu": {
+        "total": 16788975616,
+        "available": 4643737600,
+        "used": 12145238016,
+        "percent": 72.3
+      },
+      "gpu": {
+        "allocated": 734897152,
+        "cached": 7516192768,
+        "max_allocated": 6398444544,
+        "max_cached": 7516192768
+      }
+    }
+  },
+  {
+    "epoch": 4,
+    "train_loss": 0.8310125470161438,
+    "train_dice": 0.2173627436083431,
+    "val_loss": 0.7939301408254184,
+    "val_dice": 0.2485849576500746,
+    "learning_rate": 4.665063509461097e-05,
+    "training_time": 213.55879497528076,
+    "memory_usage": {
+      "cpu": {
+        "total": 16788975616,
+        "available": 4503977984,
+        "used": 12284997632,
+        "percent": 73.2
+      },
+      "gpu": {
+        "allocated": 734897152,
+        "cached": 7516192768,
+        "max_allocated": 6398444544,
+        "max_cached": 7516192768
+      }
+    }
+  },
+  {
+    "epoch": 5,
+    "train_loss": 0.8070036862410751,
+    "train_dice": 0.2458366389733319,
+    "val_loss": 0.7719918030958909,
+    "val_dice": 0.2673155711247371,
+    "learning_rate": 4.522542485937369e-05,
+    "training_time": 216.5241687297821,
+    "memory_usage": {
+      "cpu": {
+        "total": 16788975616,
+        "available": 4586131456,
+        "used": 12202844160,
+        "percent": 72.7
+      },
+      "gpu": {
+        "allocated": 734897152,
+        "cached": 7516192768,
+        "max_allocated": 6398444544,
+        "max_cached": 7516192768
+      }
+    }
+  },
+  {
+    "epoch": 6,
+    "train_loss": 0.7893074096417895,
+    "train_dice": 0.2641975249373367,
+    "val_loss": 0.7681626219015855,
+    "val_dice": 0.26454495867857564,
+    "learning_rate": 4.357862063693486e-05,
+    "training_time": 212.77622199058533,
+    "memory_usage": {
+      "cpu": {
+        "total": 16788975616,
+        "available": 4868276224,
+        "used": 11920699392,
+        "percent": 71.0
+      },
+      "gpu": {
+        "allocated": 734897152,
+        "cached": 7516192768,
+        "max_allocated": 6398444544,
+        "max_cached": 7516192768
+      }
+    }
+  }
+]
