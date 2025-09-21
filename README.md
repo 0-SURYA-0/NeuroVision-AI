@@ -296,7 +296,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact & Support
 
 For questions, suggestions, or collaboration opportunities:
-- **Email**: team@neurovision.ai
+- **Email**: suryahariharan2006@gmail.com
 - **Project Repository**: [GitHub](https://github.com/your-username/NueroVisionAI)
 
 ---
