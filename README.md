@@ -1,4 +1,4 @@
-# 🧠 NueroVision AI
+# 🧠 NeuroVision AI
 
 **Advanced 3D Brain Tumor Segmentation System with Deep Learning and Uncertainty Quantification**
 
